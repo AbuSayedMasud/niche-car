@@ -1,0 +1,14 @@
+.review
+{background-color: rgb(214, 208, 208);
+
+}
+
+.carousel-indicators{
+    margin-bottom: 0px !important;
+}
+@media screen and (max-width:767px) {
+    
+    #review-user{
+        justify-content: center !important;
+    }
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Mercedes-Benz CLA45 S AMG 4Matic",
+        "description": "Regardless, the 2020 Mercedes-AMG CLA 45 exists right now, and it's wild—even if you understand the goalposts are already in motion. ... Power goes to all-four wheels through an eight-speed dual-clutch transmission, and the latest version of Mercedes' 4Matic+ AWD system.",
+        "img": "https://cdn.motor1.com/images/mgl/RAZjP/s1/mercedes-amg-cla-45-4matic-2019.jpg",
+        "price": 4760100
+    },
+    {
+        "id": "2",
+        "name": "Toyota Raize",
+        "description": "The Toyota Raize 1.0XS is a brand new compact Crossover launched at the 2019 Tokyo Motor Show. An answer to Toyota's mini-SUV segment, the new sub-4 meter SUV was showcased to be a desirable car for its distinct and upscale structure, easy-to-drive capacity, and roomy interior.",
+        "img": "https://global.toyota/pages/news/images/2019/11/05/1100/20191105_02_01_s.jpg",
+        "price": 668000766
+    },
+    {
+        "id": "3",
+        "name": "Toyota CH-R",
+        "description": "The 2020 Toyota C-HR has a fuel efficiency of 27 miles per gallon in the city and 31 miles per gallon on the highway. The 13.2-gallon fuel tank allows this sub-compact SUV to drive for as long as 409 miles, depending on your driving behavior and conditions.",
+        "img": "https://i.ytimg.com/vi/NwmOo1elj5k/maxresdefault.jpg",
+        "price": 2500000
+    },
+    {
+        "id": "4",
+        "name": "Ford Mustang",
+        "description": "EcoBoost Fastback, retailing for $27,205 without optional packages. Its turbo-four, paired with a six-speed manual transmission, makes 310 hp and 350 lb-ft of torque.",
+        "img": "https://imgd.aeplcdn.com/1200x900/cw/ec/23766/Ford-Mustang-Exterior-126883.jpg",
+        "price": 14900000
+    },
+    {
+        "id": "5",
+        "name": "BMW X1",
+        "description": "The 4-cylinder TwinPower Turbo engine paired with the efficient 8-speed STEPTRONIC Automatic Transmission gives your BMW X1 smooth flexibility for next-level driving adventures.With near-perfect 50/50 weight distribution, standard Dynamic Stability Control, and Dynamic Traction Control, the BMW X1 performs with comfort and precision.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0c/2018_BMW_X1_xDrive18D_Sport_2.0.jpg",
+        "price": 15450000
+    },
+    {
+        "id": "6",
+        "name": "BMW i Hydrogen",
+        "description": "Back in November 2006 it announced production of the BMW Hydrogen 7 had started, describing the vehicle as “the world's first hydrogen-powered luxury saloon car.” The Hydrogen 7, it added, used an internal combustion engine and was able to run on petrol (gasoline) or liquid hydrogen",
+        "img": "https://www.bmwgroup.com/en/news/allgemein/2019/bmw-i-hydrogen-next/_jcr_content/newsarticle/newscontentparsys/youtube.img.jpeg/1608219306091.jpeg",
+        "price": 1640000
+    },
+    {
+        "id": "7",
+        "name": "BMW Concept 4",
+        "description": "The BMW Concept 4 delivers new thrills in every detail, and is truly unlike any other coupé. Boasting an exclusive, vertical kidney grille alongside narrow, open LED headlights with laser light, its front profile is unmistakable.",
+        "img": "https://www.cnet.com/a/img/RvcaNdZtBfiotfXajuqBaJMKvBg=/2019/09/10/37f68fcd-1ec0-4110-a4f6-0944e4a051a7/ogi1-bmw-concept-4-15.jpg",
+        "price": 434233434
+    },
+    {
+        "id": "8",
+        "name": "BMW i Next",
+        "description": "BMW is working on a technological flagship code-named the iNext, which the automaker previewed in 2018 with the Vision iNext concept and has since confirmed is coming in 2021. ... The iNext is a battery-electric crossover SUV similar in size and shape to the X5",
+        "img": "https://i.ibb.co/fx4zVVG/Mercedes-Benz-S-Class.jpg",
+        "price": 14000000
+    },
+    {
+        "id": "9",
+        "name": "BMW iX3",
+        "description": "BMW launched an electric version of its X3 for the 2021 model year, though the zero-emission small crossover, badged an iX3, isn't offered in the U.S.Unlike its four-wheel-drive rivals, the Audi E-tron, Jaguar I-Pace and Mercedes EQC, the iX3 is only available with rear-wheel drive. ... That makes the iX3 one of the most enjoyable electric SUVs to drive",
+        "img": "https://ev-database.org/img/auto/BMW_iX3_2022/BMW_iX3_2022-01.jpg",
+        "price": 45300000
+    },
+    {
+        "id": "10",
+        "name": "BMW X7 Concept",
+        "description": "BMW has been splitting hairs with the many new models and variants it's introduced over that past few years, but its lineup has lacked one thing the entire time: a large SUV. We've known for a while the automaker plans to remedy that with a new three-row X7, and it's using the Frankfurt Motor Show as the stage to unveil a concept that previews the upcoming SUV—though hopefully not too closely",
+        "img": "https://mediapool.bmwgroup.com/cache/P9/201708/P90274805/P90274805-bmw-concept-x7-iperformance-09-2017-2250px.jpg",
+        "price": 41300300
+    }
+]
